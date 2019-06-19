@@ -1,0 +1,23 @@
+.headline{
+  text-align: center;
+  font-family : 'jua' , sans-serif;
+  border-bottom :  10px solid yellow;
+
+}
+
+.center-position{
+  text-align: center;
+
+}
+.button{
+  padding: 50px;
+
+}
+.present-condition{
+  text-align: center;
+}
+.video{
+  position: absolute;
+  left: 50%
+  transform:translateX(-50%);
+}

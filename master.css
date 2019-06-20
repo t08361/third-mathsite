@@ -4,20 +4,40 @@
   border-bottom :  10px solid yellow;
 
 }
-
 .center-position{
   text-align: center;
-
+}
+.edubody{
+  background-color: #99f19e;
+}
+.button1{
+  border: none;
+  border-radius: 50%;
+  margin: 30px;
+  color: #8CD790;
+  background-color: #D7FFF1;
+  padding: 30px 30px;
+  font-family: 'jua' ;
+  font-size: 16px;
 }
 .button{
-  padding: 50px;
+  margin: 10px;
+  padding: 10px 10px;
+}
+.button:hover{
+  padding: 34px;
+  background-color: white;
 
 }
 .present-condition{
   text-align: center;
 }
-.video{
-  position: absolute;
-  left: 50%
-  transform:translateX(-50%);
+a{
+  text-align:center;
+}
+a:hover{
+  background-color: white;
+}
+h1:hover{
+  background-color: white;
 }

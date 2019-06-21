@@ -2,6 +2,7 @@
   text-align: center;
   font-family : 'jua' , sans-serif;
   border-bottom :  10px solid yellow;
+  font-size: 21px;
 
 }
 .center-position{
@@ -12,13 +13,13 @@
 }
 .button1{
   border: none;
-  border-radius: 50%;
+  border-radius: 60%;
   margin: 30px;
   color: #8CD790;
   background-color: #D7FFF1;
-  padding: 30px 30px;
+  padding: 40px 40px;
   font-family: 'jua' ;
-  font-size: 16px;
+  font-size: 30px;
 }
 .button{
   margin: 10px;
